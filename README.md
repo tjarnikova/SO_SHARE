@@ -9,4 +9,5 @@ List of subfolders and major notebooks:
 
 - [BallastingCael](https://github.com/tjarnikova/SO_HOME/BallastingCael)
 
-* [ObsToGrid_JoeExample.ipynb](https://nbviewer.org/github/tjarnikova/SO_SHARE/tree/master//BallastingCael///ObsToGrid_JoeExample.ipynb)  
+    * [ObsToGrid_JoeExample.ipynb](https://nbviewer.org/github/tjarnikova/SO_SHARE/tree/master//BallastingCael///ObsToGrid_JoeExample.ipynb)  
+ 
