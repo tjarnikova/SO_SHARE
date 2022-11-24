@@ -1,7 +1,7 @@
 
     Short summaries of notebooks:
 
-* ##[ObsToGrid_JoeExample.ipynb](https://nbviewer.org/github/tjarnikova/SO_SHARE/tree/master//BallastingCael///ObsToGrid_JoeExample.ipynb)  
+* [ObsToGrid_JoeExample.ipynb](https://nbviewer.org/github/tjarnikova/SO_SHARE/tree/master//BallastingCael///ObsToGrid_JoeExample.ipynb)  
     
     **Snap Cael's sediment trap observations to model grid**  
       

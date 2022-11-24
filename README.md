@@ -5,8 +5,8 @@ The idea is to be able to code/experiment/be structurally messy in SOZONE, and o
 
 :globe_with_meridians: :globe_with_meridians: :globe_with_meridians:
 
-List of subfolders:
+List of subfolders and major notebooks:
 
 - [BallastingCael](https://github.com/tjarnikova/SO_HOME/BallastingCael)
 
-Associated with Cael's SO ballasting paper. 
+* [ObsToGrid_JoeExample.ipynb](https://nbviewer.org/github/tjarnikova/SO_SHARE/tree/master//BallastingCael///ObsToGrid_JoeExample.ipynb)  
