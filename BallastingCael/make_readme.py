@@ -12,6 +12,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+REPO_DIR = 'BallastingCael/'
 
 """Salish Sea NEMO Jupyter Notebook collection README generator
 adapted by TJSJ, written by DL at SalishSeaCast group
@@ -24,8 +25,7 @@ import re
 
 
 #NBVIEWER = 'http://nbviewer.jupyter.org/urls'
-REPO = 'https://nbviewer.org/github/tjarnikova/SOZONE/blob/master/'
-REPO_DIR = 'EVAL_output/'
+REPO = 'https://nbviewer.org/github/tjarnikova/SO_SHARE/tree/master/'
 TITLE_PATTERN = re.compile('#{1,6} ?')
 
 
@@ -37,8 +37,8 @@ def main():
 
 """
     for fn in glob.glob('*.ipynb'):
-        url = 'https://nbviewer.org/github/tjarnikova/SOZONE/blob/master/RUNS_ANALYSIS'
-        readme += '* ##[{fn}]({url}/{fn})  \n    \n'.format(fn=fn, url=url)
+        url = f'{REPO}/{REPO_DIR}/'
+        readme += '* [{fn}]({url}/{fn})  \n    \n'.format(fn=fn, url=url)
         readme += notebook_description(fn)
     license = """
 ##License
