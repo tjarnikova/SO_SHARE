@@ -9,5 +9,5 @@ List of subfolders and major notebooks:
 
 [BallastingCael](https://github.com/tjarnikova/SO_HOME/BallastingCael) - my code for Joe's modelling analysis of Cael's sediment trap data
 
-   [ObsToGrid_JoeExample.ipynb](https://nbviewer.org/github/tjarnikova/SO_SHARE/tree/master//BallastingCael///ObsToGrid_JoeExample.ipynb)  
+- [ObsToGrid_JoeExample.ipynb](https://nbviewer.org/github/tjarnikova/SO_SHARE/tree/master//BallastingCael///ObsToGrid_JoeExample.ipynb)  
  
